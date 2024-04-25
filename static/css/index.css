@@ -139,15 +139,8 @@ body {
   margin-right: auto;
 }
 
-background {
-  background-image: url('../images/its_background.jpg');
-  background-size: cover; /* 背景图片覆盖整个section区域 */
-  background-position: center; /* 背景图片居中 */
-}
-
 section.background {
   background-image: url('../images/its_background.jpg');  /* 这里的 URL 是图片的路径 */
-  opacity: 1.0;
   background-repeat: no-repeat;             /* 背景图片不重复 */
   background-size: cover;                    /* 背景图片覆盖整个元素 */
   background-position: center;               /* 背景图片居中显示 */
