@@ -138,3 +138,9 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+section.background {
+  background-image: url('static/images/its_background.jpg');
+  background-size: cover; /* 背景图片覆盖整个section区域 */
+  background-position: center; /* 背景图片居中 */
+}
