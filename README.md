@@ -2,6 +2,8 @@
 
 ## This is the official repo for the invited section(code:467ni) at ITSC 2024.
 
+## [[**Project Page**]](https://oscarhuangwind.github.io/Foundation_Vehicle/) | [[**Poster**]](https://drive.google.com/file/d/1n5nRps2-U_5qOIvydPDXlsccdphLRR3X/view)
+
 1. [**Personalized Autonomous Driving with Large Language Models: Field Experiments**](https://arxiv.org/abs/2312.09397v3#:~:text=Personalized%20Autonomous%20Driving%20with%20Large%20Language%20Models:%20Field%20Experiments.)
 
    :family: Author: Can Cui, Zichong Yang, Yupeng Zhou, Yunsheng Ma, Juanwu Lu, Lingxi Li, Yaobin Chen, Jitesh Panchal, and Ziran Wang
